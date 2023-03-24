@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Robofriends
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and created as a part of [The Complete Web Developer in 2023](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course
 
