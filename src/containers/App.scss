@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import '../variables';
+
+h1{
+    font-family: 'Concert One', cursive;
+    font-weight: $title-weight;
+    color: $title-color;
+}

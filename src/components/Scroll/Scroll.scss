@@ -1,0 +1,9 @@
+@import '../../variables';
+
+.scroll{
+    width: $scroll-width;
+    height: $scroll-height;
+    overflow-y: scroll;
+    margin: auto;
+    padding: $scroll-padding;
+}
